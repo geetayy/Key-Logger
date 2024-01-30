@@ -10,7 +10,6 @@ This Python script utilizes the Pynput library to monitor keyboard inputs in rea
 
 - Captures keyboard inputs
 - Logs keystrokes into a text file
-- Stops logging after 10 keystrokes
 
 ## Installation
 
